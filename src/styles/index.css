@@ -9,3 +9,22 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+ul li {
+    border: 1px solid grey;
+    padding: 5px;
+}
+
+body { 
+    margin-top: 100px;
+}
+
+input {
+    border: 0;
+    width: 100%;
+}
+
+i {
+    color: red;
+} 
+
